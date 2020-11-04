@@ -1,2 +1,2 @@
 # Hangman-game
- A simple game in Java
+ A simple Hangman game with Singleton 
